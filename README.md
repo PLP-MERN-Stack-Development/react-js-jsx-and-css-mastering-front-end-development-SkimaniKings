@@ -2,6 +2,10 @@
 
 This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
 
+
+### Project Screenshot 
+![network scan](week-3.png)
+
 ## Assignment Overview
 
 You will:
